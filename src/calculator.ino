@@ -1,5 +1,3 @@
-
-
 #include <LiquidCrystal.h> //Header file for LCD from https://www.arduino.cc/en/Reference/LiquidCrystal
 #include <Keypad.h> //Header file for Keypad from https://github.com/Chris--A/Keypad
 
