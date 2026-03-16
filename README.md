@@ -22,6 +22,13 @@ Keys A, B, C, D are used for operators, * for clear, and # for equals.
 Press: `2 A 3 #`  
 LCD shows: `2+3 = 5`
 
+## Demo
+Circuit and diagrams are inside the `images/` folder:
+- Input packet diagram  
+  ![Input Packet](images/IPckt.png)
+- Output packet diagram  
+  ![Output Packet](images/OPckt.png)
+
 ## References
 - Arduino LiquidCrystal library docs  
 - Keypad library: https://github.com/Chris--A/Keypad
